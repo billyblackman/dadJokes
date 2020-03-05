@@ -1,0 +1,12 @@
+.dadJokeContainer {
+    display: grid;
+    grid-template-columns: 12em 12em 12em 12em;
+    grid-template-rows: 12em 12em 12em 12em;
+}
+
+.dadJokeItem {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
